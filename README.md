@@ -7,7 +7,7 @@ Authors of the material:
 
   - Stefan
   - Nikolai
-  - Marijn
+  - Marijn van Vliet, Aalto University, Finland
   - Carina Forster, Max Planck Institute for Human Cognition and Brain Sciences, Leipzig
   - Britta Westner, Radboud University Nijmegen, Donders Institute
 	
