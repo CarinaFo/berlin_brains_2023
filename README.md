@@ -28,13 +28,18 @@ Please make sure you do the following steps before the first hands-on session:
  To start a Jupyter notebook, open your terminal and navigate to the directory where you saved this directory of scripts. Then type the command `jupyter notebook` and Jupyter should open in your internet browser. Click on the notebook you want to run!
 
 
-## Program
+## Program (not finalized, might change)
 
 #### Day 1 (Thursay October 12, 2023)
-
+Morning sesssion: 09:30 am to 1:00 pm => 09:30 to 11:00 am: Carina: How to contribute to MNE/github pull requests
+					 11:30 am to 1:00 pm: Nikolai: Simulations and GUIS (title TBD)
+      
+Afternoon session: 2:00 pm to 5:30 pm => Marijn: RSA and cluster-permutation testing
 
 #### Day 2 (Friday October 13, 2023)
+Morning sesssion: 09:30 am to 1:00 pm => Britta: Source localization in M/EEG and beamforming
 
+Afternoon session: 2:00 pm to 5:30 pm => Stefan: MNE BIDS
 
 
 ### References and credit
