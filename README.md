@@ -1,7 +1,7 @@
-# berlin_brains_2023
+# Berlin Brains 2023
 2 day workshop on advanced topics in M/EEG analyis using mne python
 
-# Material for the Berlin_brains workshop on advcanced topics for M/EEG analysis in MNE-Python
+## Material for the Berlin_brains workshop on advcanced topics for M/EEG analysis in MNE-Python
 
 Authors of the material:
 
