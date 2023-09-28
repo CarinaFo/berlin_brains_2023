@@ -9,7 +9,7 @@ Authors of the material:
   - Nikolai
   - Marijn
   - Carina Forster, Max Planck Institute for Human Cognition and Brain Sciences, Leipzig
-	- Britta Westner, Radboud University Nijmegen, Donders Institute
+  - Britta Westner, Radboud University Nijmegen, Donders Institute
 	
 
 ## Before you arrive
