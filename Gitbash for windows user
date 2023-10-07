@@ -1,0 +1,17 @@
+# Working with Git
+
+# tips and tricks for windows user
+
+## my recommendation: git bash
+
+https://gitforwindows.org/
+
+## after downloading git bash, we want to use anaconda commands with git
+
+## setup anaconda in git bash
+
+https://discuss.codecademy.com/t/setting-up-conda-in-git-bash/534473
+
+## this worked for me, don't forget to close git bash and open it again before running conda activate
+
+## you should find a .bashrc file in your home folder that contains the path to the anaconda shell script
