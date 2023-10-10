@@ -1,14 +1,14 @@
 # Berlin Brains 2023
-2 day workshop on advanced topics in M/EEG analyis using mne python
+2 day workshop on advanced topics in M/EEG analyis using MNE-Python
 
 ## Material for the Berlin_brains workshop on advcanced topics for M/EEG analysis in MNE-Python
 
 Authors of the material:
 
-  - Stefan, Max Planck Institute for Human Development, Berlin
-  - Nikolai, Max Planck Institute for Human Cognition and Brain Sciences, Leipzig
+  - Stefan Appelhoff, Max Planck Institute for Human Development, Berlin
+  - Nikolai Kapralov, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
   - Marijn van Vliet, Aalto University, Finland
-  - Carina Forster, Max Planck Institute for Human Cognition and Brain Sciences, Leipzig
+  - Carina Forster, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
   - Britta Westner, Radboud University Nijmegen, Donders Institute
 	
 
@@ -31,9 +31,11 @@ Please make sure you do the following steps before the first hands-on session:
 
 ## Program
 
-#### Day 1 (Thursay October 12, 2023)
-Morning sesssion: 09:30 am to 1:00 pm => 09:30 to 11:00 am: Carina: How to contribute to MNE/github pull requests
-					 11:30 am to 1:00 pm: Nikolai: Turning MNE-based analysis into an interactive app
+#### Day 1 (Thursday October 12, 2023)
+Morning session: 09:30 am to 1:00 pm
+
+- 09:30 to 11:00 am: Carina: How to contribute to MNE/github pull requests
+- 11:30 am to 1:00 pm: Nikolai: Turning MNE-based analysis into an interactive app
       
 Afternoon session: 2:00 pm to 5:30 pm => Marijn: Representational similarity analysis with MNE-RSA, including  performing statistical analysis using cluster-based permutation testing
 
