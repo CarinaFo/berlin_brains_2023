@@ -17,7 +17,7 @@ Authors of the material:
 Please make sure you do the following steps before the first hands-on session:
 
 0. You will need to download this directory of scripts.
-1. You will need to [download the data](to_be_added).
+1. You will need to [download the data](https://drive.google.com/file/d/1etefiAIRG6CMBeU91Fu2CTqM5KT9Ng_Z/view?usp=sharing).
 2. You will need to have an up-to-date version of MNE-Python installed on your machine (you need a *full install* with all dependencies, **not** "MNE-Python with core functionalities only"). See instructions at: https://mne.tools/stable/install/index.html
 3. To check your installation, please look at the (very short!) notebook [Check your installation](Installation_check.ipynb). See below if you need a reminder how to start it.
 4. Please read the section on the MNE homepage on how to [contribute to MNE](https://mne.tools/stable/install/contributing.html) and follow the instructions until the part where we create a virtual environment.
