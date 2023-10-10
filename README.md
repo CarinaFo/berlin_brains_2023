@@ -1,16 +1,17 @@
-# Berlin Brains 2023
-2 day workshop on advanced topics in M/EEG analyis using MNE-Python
+# Berlin Brainwaves: Advanced EEG Analysis with MNE Python @ Campus of Cognition
 
-## Material for the Berlin_brains workshop on advcanced topics for M/EEG analysis in MNE-Python
+This is the repository for a 2-day workshop on advanced topics in M/EEG analyis using [MNE-Python](https://github.com/mne-tools/mne-python).
+The workshop is taking place October 12th-13th, 2023 in Berlin.
+
+## Materials
 
 Authors of the material:
 
-  - Stefan Appelhoff, Max Planck Institute for Human Development, Berlin
-  - Nikolai Kapralov, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
-  - Marijn van Vliet, Aalto University, Finland
-  - Carina Forster, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
-  - Britta Westner, Radboud University Nijmegen, Donders Institute
-	
+- [Stefan Appelhoff](https://stefanappelhoff.com/), Max Planck Institute for Human Development, Berlin
+- Nikolai Kapralov, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
+- Marijn van Vliet, Aalto University, Finland
+- Carina Forster, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
+- Britta Westner, Radboud University Nijmegen, Donders Institute
 
 ## Before you arrive
 
@@ -20,30 +21,38 @@ Please make sure you do the following steps before the first hands-on session:
 1. You will need to [download the data](https://drive.google.com/file/d/1etefiAIRG6CMBeU91Fu2CTqM5KT9Ng_Z/view?usp=sharing).
 2. You will need to have an up-to-date version of MNE-Python installed on your machine (you need a *full install* with all dependencies, **not** "MNE-Python with core functionalities only"). See instructions at: https://mne.tools/stable/install/index.html
 3. To check your installation, please look at the (very short!) notebook [Check your installation](Installation_check.ipynb). See below if you need a reminder how to start it.
-4. Please read the section on the MNE homepage on how to [contribute to MNE](https://mne.tools/stable/install/contributing.html) and follow the instructions until the part where we create a virtual environment.
-   If you feel up for it you can of course also complete the whole setup.
+4. Please read the section on the MNE homepage on how to [contribute to MNE](https://mne.tools/stable/install/contributing.html) and follow the instructions until the part where we create a virtual environment. If you feel up for it you can of course also complete the whole setup.
 6. If you are not familiar with Python, we invite you to take the time to work on these tutorials:
 [Intro to Python](intro_to_python/0a-Intro_Python.ipynb), [Intro to Numpy](intro_to_python/0b-Intro_Numpy.ipynb).
 
 ### Start a Jupyter notebook
 
- To start a Jupyter notebook, open your terminal and navigate to the directory where you saved this directory of scripts. Then type the command `jupyter notebook` and Jupyter should open in your internet browser. Click on the notebook you want to run!
+To start a Jupyter notebook, open your terminal and navigate to the directory where you saved this directory of scripts.
+Then type the command `jupyter notebook` and Jupyter should open in your internet browser.
+Click on the notebook you want to run!
 
 ## Program
 
 #### Day 1 (Thursday October 12, 2023)
+
 Morning session: 09:30 am to 1:00 pm
 
 - 09:30 to 11:00 am: Carina: How to contribute to MNE/github pull requests
 - 11:30 am to 1:00 pm: Nikolai: Turning MNE-based analysis into an interactive app
-      
-Afternoon session: 2:00 pm to 5:30 pm => Marijn: Representational similarity analysis with MNE-RSA, including  performing statistical analysis using cluster-based permutation testing
+
+Afternoon session: 2:00 pm to 5:30 pm
+
+- Marijn: Representational similarity analysis with MNE-RSA, including performing statistical analysis using cluster-based permutation testing
 
 #### Day 2 (Friday October 13, 2023)
-Morning sesssion: 09:30 am to 1:00 pm => Britta: Source localization in M/EEG and beamforming
 
-Afternoon session: 2:00 pm to 5:30 pm => Stefan: MNE BIDS
+Morning sesssion: 09:30 am to 1:00 pm
 
+- Britta: Source localization in M/EEG and beamforming
+
+Afternoon session: 2:00 pm to 5:30 pm
+
+- Stefan: [MNE-BIDS](https://github.com/mne-tools/mne-bids)
 
 ### References and credit
 
@@ -68,3 +77,10 @@ To cite the MNE-Python package, please use:
 	T. Brooks, L. Parkkonen, M. Hämäläinen, MEG and EEG data analysis with MNE-Python,
 	Frontiers in Neuroscience, Volume 7, 2013, ISSN 1662-453X.
 
+To cite the MNE-BIDS package, please use:
+
+	Appelhoff, S., Sanderson, M., Brooks, T., Vliet, M., Quentin, R., Holdgraf, C., Chaumon, M.,
+	Mikulan, E., Tavabi, K., Höchenberger, R., Welke, D., Brunner, C., Rockhill, A., Larson, E.,
+	Gramfort, A., & Jas, M. (2019):
+	MNE-BIDS: Organizing electrophysiological data into the BIDS format and facilitating their analysis.
+	Journal of Open Source Software, 4:1896. DOI: 10.21105/joss.01896
