@@ -1,7 +1,7 @@
 # Berlin Brainwaves: Advanced EEG Analysis with MNE Python @ Campus of Cognition
 
 This is the repository for a 2-day workshop on advanced topics in M/EEG analyis using [MNE-Python](https://github.com/mne-tools/mne-python).
-The workshop is taking place October 12th-13th, 2023 in Berlin.
+The workshop is taking place October 12th-13th, 2023 in [Berlin](https://maps.app.goo.gl/nuLLdxN6jgG276e28).
 
 ## Materials
 
