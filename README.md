@@ -21,7 +21,9 @@ Please make sure you do the following steps before the first hands-on session:
 1. You will need to [download the data](https://drive.google.com/file/d/1etefiAIRG6CMBeU91Fu2CTqM5KT9Ng_Z/view?usp=sharing).
 1. You will need to have an up-to-date version of MNE-Python installed on your machine (you need a *full install* with all dependencies, **not** "MNE-Python with core functionalities only"). See instructions at: https://mne.tools/stable/install/index.html
 1. You will need to have the very latest version of MNE-RSA (v0.9) installed either through PIP (`pip install mne-rsa`) or through conda using the conda-forge channel (`conda install -c conda-forge mne-rsa`).
+1. You will need Panel and Streamlit frameworks as well as several other packages (fooof, PyQt5, mne_bids) for the tutorials on creating interactive apps. They can be installed using PIP (`pip install --upgrade fooof mne_bids panel PyQt5 streamlit`).
 1. To check your installation, please look at the (very short!) notebook [Check your installation](Installation_check.ipynb). See below if you need a reminder how to start it.
+1. Additionally, to test whether Streamlit is working properly, run `streamlit hello` or `python -m streamlit hello`. A new tab (or window) should open in your browser with demo examples of other apps based on Streamlit.
 1. Please read the section on the MNE homepage on how to [contribute to MNE](https://mne.tools/stable/install/contributing.html) and follow the instructions until the part where we create a virtual environment. If you feel up for it you can of course also complete the whole setup.
 1. If you are not familiar with Python, we invite you to take the time to work on these tutorials:
 [Intro to Python](intro_to_python/0a-Intro_Python.ipynb), [Intro to Numpy](intro_to_python/0b-Intro_Numpy.ipynb).
