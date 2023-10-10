@@ -9,7 +9,7 @@ Authors of the material:
 
 - [Stefan Appelhoff](https://stefanappelhoff.com/), Max Planck Institute for Human Development, Berlin
 - Nikolai Kapralov, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
-- Marijn van Vliet, Aalto University, Finland
+- [Marijn van Vliet](https://cmhc.fi), Aalto University, Finland
 - Carina Forster, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
 - Britta Westner, Radboud University Nijmegen, Donders Institute
 
