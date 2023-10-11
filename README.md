@@ -3,6 +3,10 @@
 This is the repository for a 2-day workshop on advanced topics in M/EEG analyis using [MNE-Python](https://github.com/mne-tools/mne-python).
 The workshop is taking place October 12th-13th, 2023 in [Berlin](https://maps.app.goo.gl/nuLLdxN6jgG276e28).
 
+## How to get there
+
+Please see the folder `how_to_get_there` for further instructions on how to find the workshop location.
+
 ## Materials
 
 Authors of the material:
