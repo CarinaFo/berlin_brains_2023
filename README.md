@@ -40,7 +40,9 @@ Click on the notebook you want to run!
 
 ## Program
 
-#### Day 1 (Thursday October 12, 2023)
+See also the schedule: https://docs.google.com/document/d/11x1XO39NtUT6g0h45SEwk2834KM2GQ6pdLJSPC6i3VU/edit?usp=sharing
+
+### Day 1 (Thursday October 12, 2023)
 
 Morning session: 09:30 am to 1:00 pm
 
@@ -51,7 +53,7 @@ Afternoon session: 2:00 pm to 5:30 pm
 
 - Marijn: Representational similarity analysis with MNE-RSA, including performing statistical analysis using cluster-based permutation testing
 
-#### Day 2 (Friday October 13, 2023)
+### Day 2 (Friday October 13, 2023)
 
 Morning sesssion: 09:30 am to 1:00 pm
 
@@ -61,7 +63,7 @@ Afternoon session: 2:00 pm to 5:30 pm
 
 - Stefan: [MNE-BIDS](https://github.com/mne-tools/mne-bids)
 
-### References and credit
+## References and credit
 
 The code from this tutorial is heavily inspired from this article:
 
