@@ -40,7 +40,7 @@ Click on the notebook you want to run!
 
 ## Program
 
-See also the schedule: https://docs.google.com/document/d/11x1XO39NtUT6g0h45SEwk2834KM2GQ6pdLJSPC6i3VU/edit?usp=sharing
+[Schedule](https://docs.google.com/document/d/11x1XO39NtUT6g0h45SEwk2834KM2GQ6pdLJSPC6i3VU/edit?usp=sharing)
 
 ### Day 1 (Thursday October 12, 2023)
 
